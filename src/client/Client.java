@@ -22,7 +22,7 @@ public class Client {
            }  
         } catch (Exception e) {
            System.err.println("Client exception: " + e.toString());
-           e.printStackTrace(); 
+           e.printStackTrace();
         }
 }
 

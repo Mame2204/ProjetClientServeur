@@ -21,7 +21,7 @@ public class Client {
               System.out.println("Stock: " + s.getNbStock());  
            }  
         } catch (Exception e) {
-           System.err.println("Client exception: " + e.toString()); 
+           System.err.println("Client exception: " + e.toString());
            e.printStackTrace(); 
         }
 }
